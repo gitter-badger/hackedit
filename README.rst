@@ -8,7 +8,18 @@ About
 HackEdit is a hackable editor, built with Python3, PyQt5 and pyQode.
 
 This repository contains the core application, the core plugins. and a simple API for writing plugins and interacting with the application's main objects without knowing much about the internals.
-   
+
+Resources
+---------
+
+- `roadmap`_
+- `design notes`_
+- `screenshots`_
+
+.. _roadmap: https://github.com/HackEdit/hackedit/wiki/Roadmap
+.. _design notes: https://github.com/HackEdit/hackedit/wiki/Design-notes
+.. _screenshots: https://github.com/HackEdit/hackedit/wiki/Screenshots
+
 Requirements
 -------------
 
@@ -29,11 +40,9 @@ General instructions
 
     pip3 install hackedit --upgrade
 
-3. install additional plugins, e.g.::
+3. install plugins *(there will be a plugin manager interface for doing that in a future versions)*, e.g.::
 
     pip3 install hackedit_python hackedit_cobol --upgrade
-  
-  *there will be a plugin manager interface for doing that in a future versions*
     
 Linux
 +++++
