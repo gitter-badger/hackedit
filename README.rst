@@ -1,4 +1,4 @@
-.. image:: https://raw.githubusercontent.com/HackEdit/hackedit/master/banner.png
+.. image:: https://raw.githubusercontent.com/HackEdit/hackedit/master/docs/_static/banner.png
 
 **At the moment, the project is being worked on a private server, the code will be available when the first alpha version is ready.** *(if everything goes right the alpha should be ready by the end of summer 2015)*
 
@@ -27,7 +27,7 @@ Requirements
 - PyQt5 >= 5.2
 - pip
 
-   
+
 Installation
 -------------
 
@@ -43,7 +43,7 @@ General instructions
 3. install plugins *(there will be a plugin manager interface for doing that in a future versions)*, e.g.::
 
     pip3 install hackedit_python hackedit_cobol --upgrade
-    
+
 Linux
 +++++
 
