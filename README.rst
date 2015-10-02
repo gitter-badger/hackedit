@@ -1,6 +1,6 @@
 .. image:: https://raw.githubusercontent.com/HackEdit/hackedit/master/docs/_static/banner.png
 
-**At the moment, the project is being worked on a private server, the code will be available when the first alpha version is ready.** *(if everything goes right the alpha should be ready by the end of summer 2015)*
+**At the moment, the project is being worked on a private server, the code will be available when the first alpha version is ready.** *(if everything goes right the alpha should be ready in a few weeks)*
 
 About
 -----
