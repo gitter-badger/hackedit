@@ -86,3 +86,8 @@ We cannot distribute hackedit as a standalone application because hackedit makes
 **On windows**, you can grab an installer that will install a portable python installation ready with all python dependencies and a launcher executable that will use the portable installation (you can point it to another python installation). So just grab the installer, check the plugins/tools that you want and you're done.
 
 **On OSX**, you need to install python3 and pyqt5 using a package manager such as homebrew and then use pip to install hackedit and its plugins, as indicated in the general install instructions. Then you can grab the launcher app and copy it to your Applications folder.
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/HackEdit/hackedit
+   :target: https://gitter.im/HackEdit/hackedit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
